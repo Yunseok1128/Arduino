@@ -1,11 +1,11 @@
 #define TRIG1 3 // 초으파 센서 1번 Trig 핀 번호
-#define ECHO1 4 // 초음파 센서 1번 Echi 핀 번호
+#define ECHO1 4 // 초음파 센서 1번 Echo 핀 번호
 
 #define TRIG2 5 // 초으파 센서 2번 Trig 핀 번호
-#define ECHO2 6 // 초음파 센서 2번 Echi 핀 번호
+#define ECHO2 6 // 초음파 센서 2번 Echo 핀 번호
 
 #define TRIG3 7 // 초으파 센서 3번 Trig 핀 번호
-#define ECHO3 8 // 초음파 센서 3번 Echi 핀 번호
+#define ECHO3 8 // 초음파 센서 3번 Echo핀 번호
 
 void setup() {
   // put your setup code here, to run once:
